@@ -16,7 +16,7 @@ A complete web application for managing hospital appointments, built with PHP, M
 
 ## Usage
 
-1.  **Access the App**: Go to `http://localhost/hospital-scheduler/`.
+1.  **Access the App**: Go to `http://localhost/hospital-scheduler/index.php`.
 2.  **Login**:
     *   **Admin**: `admin@hospital.local` / `Admin123!`
     *   **Doctor**: `house@hospital.local` / `Admin123!`
