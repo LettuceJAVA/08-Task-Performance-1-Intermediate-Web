@@ -1,3 +1,9 @@
+# Group Members
+- Abunda, Lhanze Tyler C.
+- Luciano, Jerzy Ean M.
+- Radan, Philip Radan R.
+- Vasquez, Jose Adolfo D.M.
+
 # Hospital Scheduling System
 
 A complete web application for managing hospital appointments, built with PHP, MySQL, and Bootstrap 5.
